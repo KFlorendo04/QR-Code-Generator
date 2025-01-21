@@ -1,8 +1,11 @@
 QR Code Generator Documentation
+
 -Overview
+
 This QR Code Generator allows users to create QR codes by entering text or URLs. The generated QR code is displayed on the webpage for easy access and use.
 
 -Features
+
 Enter text or URL to generate a QR code.
 Display the generated QR code on the webpage.
 Responsive design using Tailwind CSS.
